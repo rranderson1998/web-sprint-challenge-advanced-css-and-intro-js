@@ -251,7 +251,7 @@ function get20s(/* Code here */){
 function removeArtist(/*code here*/) {
     /* code here */
   }
-  
+  l
  
 
 /**
