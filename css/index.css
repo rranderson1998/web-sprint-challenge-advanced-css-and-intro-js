@@ -137,19 +137,16 @@ button:hover{
 
 @media (max-width: 500px){
     nav {
-        width: 50%;
+        width: 40%;
     }
 
     nav a {
         font-size: 1.7rem;
     }
 
-    #home {
-        font-weight: bold;
-    }
-
     .title-container div {
         width: 100%;
+        margin-bottom: 1%;
     }
 
     h1 {
