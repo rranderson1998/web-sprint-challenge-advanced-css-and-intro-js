@@ -318,6 +318,7 @@ function lotsOfArt(/*Your Code Here*/){
 
 
 
+
 // 🎨🎨 STRETCH 🎨🎨//
 /* 💪💪💪💪💪💪 STRETCH 1: 💪💪💪💪💪💪 
 Programmatically console.log HTML element structure.
